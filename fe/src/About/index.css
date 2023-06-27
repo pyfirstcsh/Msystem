@@ -1,0 +1,15 @@
+.header {
+    padding: 0;
+    display: flex;
+    /*弹性布局方式*/
+    align-items: center;
+    /* 设置垂直轴线的位置 center中间 */
+    background: #fff;
+}
+.topNav{
+    margin:0 24px;
+}
+.site-layout .site-layout-background {
+    background: #fff;
+
+}
